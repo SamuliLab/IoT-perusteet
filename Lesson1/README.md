@@ -1,1 +1,1 @@
-![ding](./Lesson1/ding.gif)
+![ding](https://github.com/SamuliLab/IoT-perusteet/blob/main/Lesson1/ding.gif)
